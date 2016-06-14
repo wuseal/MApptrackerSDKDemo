@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MappTrackerDemo</string>
+    <string name="hello_world">Hello, mappTracker has run</string>
+    <string name="upload_title">数据上报状态</string>
+    <string name="pre_send">即将上报数据</string>
+    <string name="start_send">开始上报数据</string>
+    <string name="send_result">上报数据结果</string>
+    <string name="send_result_succeed">数据上报成功</string>
+    <string name="send_result_fail">数据上报失败</string>
+</resources>
