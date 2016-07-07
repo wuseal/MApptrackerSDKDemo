@@ -17,7 +17,7 @@ buildscript {
 allprojects {
     repositories {
         jcenter()
-        maven { url "http://203.156.255.181:8081/nexus/content/groups/public/" }
+        maven { url "http://dpapi.irs01.com:8081/nexus/content/groups/public/"  }
     }
 }
 
